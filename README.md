@@ -1,3 +1,5 @@
+# lua-png
+
 This is a small, single-file implementation of a PNG decoder written in Lua 5.1.
 
 Benchmarks coming soon!
